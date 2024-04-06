@@ -1,6 +1,7 @@
 # Music Emotion Classifier
 
-This project aims to build a music emotion classifier using a Random Forest model. The classifier takes various features of a song, such as danceability, energy, key, loudness... and then predicts its emotion (happy, sad, angry...)
+- Random Forest Music Emotion Classifier with grid-search and cross-validation. The classifier takes various features of a song, such as danceability, energy, key, loudness... and then predicts its emotion (happy, sad, angry...)
+- Winner of 2023 KCL AI Society competition  [(Link)](https://www.instagram.com/p/CqnMQSpNz6u/) 
 
 ## How to run the project
 
